@@ -9,7 +9,7 @@ This was a capstone group-project I did with 3 fellow students. The goal was to 
 3. Wordcloud with the most frequent words found in the tweets
 4. Topic modeling form the tweets
 
-My main task was to implement the line chart (code in ´ui/line_chart.py´) and set up the code for the virtual environment (code in ´install.sh´). However, I also helped my teammates debug whenever needed. Please use the instructions below to interact with the application.
+My main task was to implement the line chart (code in `ui/line_chart.py`) and set up the code for the virtual environment (code in `install.sh`). However, I also helped my teammates debug whenever needed. Please use the instructions below to interact with the application.
 
 ### Installing the Application
 
