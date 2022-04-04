@@ -1,5 +1,16 @@
 # Larry on Fire
 
+### Project Overview
+
+This was a capstone group-project I did with 3 fellow students. The goal was to develop and application that would give the users the ability to visualize when people tweet about California wildfires. Our application does this by allowing users to analyze the evolution over time while offering several filters to interact with the data. In detail, we produced the following interactive visualization:
+
+1. Map locating the wildfires over time
+2. Line chart plotting the number of tweets and acres burned per week
+3. Wordcloud with the most frequent words found in the tweets
+4. Topic modeling form the tweets
+
+My main task was to implement the line chart (code in ´ui/line_chart.py´) and set up the code for the virtual environment (code in ´install.sh´). However, I also helped my teammates debug whenever needed. Please use the instructions below to interact with the application.
+
 ### Installing the Application
 
 1. Run `bash install.sh` in the top-level directory, this will install all required libraries in a virtual environment
